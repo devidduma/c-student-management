@@ -1,0 +1,7 @@
+1 Oliver Queen 30 8
+2 John Diggle 40 8
+3 Thea Queen 20 8
+4 Damien Darhk 50 8
+5 Raas Alghul 50 8
+6 Felicity Smoke 20 8
+7 Newer Student 30 7

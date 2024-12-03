@@ -1,0 +1,4 @@
+1 emancellari emancellari Enea Mancellari 30 10000
+2 ebedalli ebedalli Erind Bedalli 30 10000
+3 aosman aosman Ali Osman 45 10000
+4 dduma dduma Devid Duma 23 10000
