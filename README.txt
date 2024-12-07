@@ -29,4 +29,4 @@ After finishing the project i realized that there is no way of magically destroy
 
 What would i have done differently:
 
-I would have invested some more time using delete when objects are no longer needed but i already had spent enough time on the project and had to move on to other projects and assignments.
+I would have invested some more time using delete when objects are no longer needed but i already had spent enough time on the project and had to move on to other projects and assignments. 
